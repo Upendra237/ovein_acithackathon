@@ -1,0 +1,17 @@
+RewriteEngine On
+
+# Handle places, events, guides routing
+RewriteRule ^places/?$ places/index.php [L]
+RewriteRule ^events/?$ events/index.php [L]
+RewriteRule ^guides/?$ guides/index.php [L]
+
+# Security - prevent access to sensitive files
+<Files "*.json">
+    Order allow,deny
+    Deny from all
+</Files>
+
+<Files "config.php">
+    Order allow,deny
+    Deny from all
+</Files>
