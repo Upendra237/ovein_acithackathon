@@ -17,6 +17,7 @@
             background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 50%, #ec4899 100%);
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.12);
             backdrop-filter: blur(20px);
+            z-index:9999;
         }
         
         .nav-link {
@@ -62,7 +63,7 @@
             right: 0;
             top: 100%;
             margin-top: 12px;
-            z-index: 1000;
+            z-index: 100000;
             backdrop-filter: blur(20px);
             border: 1px solid rgba(255, 255, 255, 0.1);
         }
@@ -106,7 +107,7 @@
                 background: rgba(255, 255, 255, 0.95);
                 backdrop-filter: blur(20px);
                 border-top: 1px solid rgba(0, 0, 0, 0.1);
-                z-index: 50;
+                z-index: 1000000;
                 box-shadow: 0 -8px 32px rgba(0, 0, 0, 0.12);
             }
             

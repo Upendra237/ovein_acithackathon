@@ -3,11 +3,11 @@
 session_start();
 
 // Root URL Configuration - Change this for different environments
-// define('ROOT_URL', 'http://localhost/ms/acit-hackathon/v105'); // For local development
-define('ROOT_URL', 'https://development.shahiupendra.com.np/ms/acit-hackathon/v105'); // For production
+// define('ROOT_URL', 'http://localhost/ms/acit-hackathon/ovein'); // For local development
+define('ROOT_URL', 'https://development.shahiupendra.com.np/ms/acit-hackathon/ovein'); // For production
 
 // Basic configuration
-define('SITE_NAME', 'Hackathon System');
+define('SITE_NAME', 'Eventra');
 define('DATA_PATH', 'assets/data/');
 define('USERS_FILE', DATA_PATH . 'users.json');
 

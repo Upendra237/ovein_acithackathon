@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Pashupatinath Temple",
-        "description": "Sacred Hindu temple dedicated to Lord Shiva, located on the banks of Bagmati River",
+        "description": "Sacred Hindu temple dedicated to Lord Shiva, located on the banks of Bagmati River. This UNESCO World Heritage Site is one of the most significant Hindu temples in Nepal and attracts devotees from around the world. The temple complex features stunning pagoda-style architecture and serves as an important cremation site for Hindus.",
         "short_description": "Sacred Hindu temple on Bagmati River",
         "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=500&h=300&fit=crop",
         "latitude": 27.7106,
@@ -11,14 +11,15 @@
         "district": "Kathmandu",
         "rating": 4.8,
         "reviews_count": 1250,
-        "entry_fee": "NPR 1000 (Foreigners)",
+        "entry_fee": "NPR 1000 (Foreigners), Free (Locals)",
         "opening_hours": "4:00 AM - 12:00 PM, 5:00 PM - 9:00 PM",
         "best_time": "Early morning or evening",
         "things_to_do": [
             "Witness evening aarti ceremony",
             "Explore ancient architecture",
             "Visit Arya Ghat cremation site",
-            "Photography of temple complex"
+            "Photography of temple complex",
+            "Meditation by the river"
         ],
         "events": [
             {
@@ -46,17 +47,46 @@
                 "date": "2024-01-10"
             }
         ],
+        "guides": [
+            {
+                "name": "Ramesh Bhatta",
+                "rating": 4.9,
+                "tours_completed": 150,
+                "speciality": "Hindu religious history and rituals",
+                "price_per_hour": 1500,
+                "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+            },
+            {
+                "name": "Sita Devi",
+                "rating": 4.7,
+                "tours_completed": 98,
+                "speciality": "Temple architecture and mythology",
+                "price_per_hour": 1200,
+                "photo": "https://images.unsplash.com/photo-1494790108755-2616b612b098?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Best Photography Times",
+                "description": "Visit during golden hour (sunrise/sunset) for the best lighting and spiritual atmosphere"
+            },
+            {
+                "title": "Dress Code",
+                "description": "Wear modest clothing covering shoulders and knees. Remove shoes before entering sacred areas"
+            }
+        ],
         "awareness": [
             "Dress modestly and remove shoes before entering",
             "Photography may be restricted in certain areas",
             "Respect local customs and traditions",
-            "Be mindful during cremation ceremonies"
+            "Be mindful during cremation ceremonies",
+            "Beware of aggressive monkeys near the temple"
         ]
     },
     {
         "id": 2,
         "name": "Patan Durbar Square",
-        "description": "UNESCO World Heritage Site showcasing medieval Newar architecture and ancient palaces",
+        "description": "UNESCO World Heritage Site showcasing medieval Newar architecture and ancient palaces. This historical square is renowned for its exquisite craftsmanship, intricate wood carvings, and stone sculptures. The square houses the former royal palace of Patan and numerous temples dedicated to Hindu and Buddhist deities.",
         "short_description": "Medieval palace complex with stunning architecture",
         "image": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?w=500&h=300&fit=crop",
         "latitude": 27.6722,
@@ -73,7 +103,8 @@
             "Visit Patan Museum",
             "Admire traditional woodwork",
             "Shop for handicrafts",
-            "Try local Newari cuisine"
+            "Try local Newari cuisine",
+            "Photography workshops"
         ],
         "events": [
             {
@@ -101,6 +132,26 @@
                 "date": "2024-01-08"
             }
         ],
+        "guides": [
+            {
+                "name": "Bikash Shakya",
+                "rating": 4.8,
+                "tours_completed": 200,
+                "speciality": "Newar culture and architecture",
+                "price_per_hour": 1800,
+                "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Best Time for Photography",
+                "description": "Visit early morning for soft lighting and fewer crowds"
+            },
+            {
+                "title": "Museum Visit",
+                "description": "Don't miss the Patan Museum for detailed historical context"
+            }
+        ],
         "awareness": [
             "Earthquake damage restoration ongoing in some areas",
             "Hire local guides for detailed historical information",
@@ -111,7 +162,7 @@
     {
         "id": 3,
         "name": "Kathmandu Durbar Square",
-        "description": "Historic royal palace complex at the heart of Kathmandu with temples and courtyards",
+        "description": "Historic royal palace complex at the heart of Kathmandu with temples and courtyards. This ancient square served as the royal palace for the Malla and Shah kings and showcases traditional Nepalese architecture. The complex includes the famous Hanuman Dhoka Palace and houses the living goddess Kumari.",
         "short_description": "Historic royal palace in heart of Kathmandu",
         "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=300&fit=crop",
         "latitude": 27.7040,
@@ -128,7 +179,8 @@
             "See the Living Goddess Kumari",
             "Explore Taleju Temple",
             "Walk through ancient courtyards",
-            "Experience local street life"
+            "Experience local street life",
+            "Visit nearby markets"
         ],
         "events": [
             {
@@ -156,17 +208,38 @@
                 "date": "2024-01-09"
             }
         ],
+        "guides": [
+            {
+                "name": "Krishna Maharjan",
+                "rating": 4.6,
+                "tours_completed": 180,
+                "speciality": "Royal history and living traditions",
+                "price_per_hour": 1600,
+                "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Kumari Darshan",
+                "description": "Visit during specific times when the living goddess appears at her window"
+            },
+            {
+                "title": "Street Food",
+                "description": "Try local Newari delicacies from street vendors around the square"
+            }
+        ],
         "awareness": [
             "Some structures still under post-earthquake reconstruction",
             "Kumari darshan has specific timings",
             "Beware of pickpockets in crowded areas",
-            "Respect photography restrictions"
+            "Respect photography restrictions",
+            "Watch out for uneven stone pathways"
         ]
     },
     {
         "id": 4,
         "name": "Swayambhunath Stupa",
-        "description": "Ancient Buddhist stupa atop a hill, also known as Monkey Temple, offering panoramic city views",
+        "description": "Ancient Buddhist stupa atop a hill, also known as Monkey Temple, offering panoramic city views. This 2,500-year-old religious complex is one of the oldest Buddhist sites in Nepal. The stupa's eyes painted on its tower symbolize the all-seeing eyes of Buddha, watching over the valley.",
         "short_description": "Ancient Buddhist stupa with panoramic views",
         "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=300&fit=crop",
         "latitude": 27.7149,
@@ -183,7 +256,8 @@
             "Watch sunrise/sunset views",
             "Observe monkeys in their habitat",
             "Spin prayer wheels",
-            "Visit surrounding monasteries"
+            "Visit surrounding monasteries",
+            "Photography session"
         ],
         "events": [
             {
@@ -211,17 +285,38 @@
                 "date": "2024-01-11"
             }
         ],
+        "guides": [
+            {
+                "name": "Lama Tenzin",
+                "rating": 4.9,
+                "tours_completed": 120,
+                "speciality": "Buddhist philosophy and meditation",
+                "price_per_hour": 1400,
+                "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Early Morning Visit",
+                "description": "Arrive early to avoid crowds and enjoy peaceful meditation time"
+            },
+            {
+                "title": "Comfortable Footwear",
+                "description": "Wear good walking shoes for the steep climb up the hill"
+            }
+        ],
         "awareness": [
             "Monkeys can be aggressive - don't carry food openly",
             "Wear comfortable shoes for the climb",
             "Respect Buddhist customs and traditions",
-            "Early morning visits are less crowded"
+            "Early morning visits are less crowded",
+            "Steps can be slippery during monsoon"
         ]
     },
     {
         "id": 5,
         "name": "Boudhanath Stupa",
-        "description": "One of the largest Buddhist stupas in the world and center of Tibetan Buddhism in Nepal",
+        "description": "One of the largest Buddhist stupas in the world and center of Tibetan Buddhism in Nepal. The massive mandala structure is a UNESCO World Heritage Site and an important pilgrimage destination. The area around the stupa is home to many Tibetan refugees and features numerous monasteries.",
         "short_description": "Massive Buddhist stupa and Tibetan cultural center",
         "image": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?w=500&h=300&fit=crop",
         "latitude": 27.7215,
@@ -238,7 +333,8 @@
             "Visit surrounding monasteries",
             "Shop for Tibetan handicrafts",
             "Try Tibetan cuisine",
-            "Attend evening prayers"
+            "Attend evening prayers",
+            "Meditation sessions"
         ],
         "events": [
             {
@@ -266,11 +362,767 @@
                 "date": "2024-01-12"
             }
         ],
+        "guides": [
+            {
+                "name": "Pemba Lama",
+                "rating": 4.8,
+                "tours_completed": 165,
+                "speciality": "Tibetan Buddhism and culture",
+                "price_per_hour": 1600,
+                "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Circumambulation",
+                "description": "Walk clockwise around the stupa following traditional Buddhist practice"
+            },
+            {
+                "title": "Rooftop Cafes",
+                "description": "Enjoy Tibetan tea and momos from rooftop restaurants overlooking the stupa"
+            }
+        ],
         "awareness": [
             "Walk clockwise around the stupa as per tradition",
             "Remove hats and shoes when entering monasteries",
             "Photography may be restricted inside some areas",
-            "Support local Tibetan refugee community"
+            "Support local Tibetan refugee community",
+            "Avoid pointing feet towards the stupa"
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Bhaktapur Durbar Square",
+        "description": "Ancient royal palace complex in Bhaktapur showcasing medieval art and architecture. Known as the 'City of Devotees', this UNESCO World Heritage Site features the famous 55-Window Palace, Vatsala Temple, and numerous artistic masterpieces. The square represents the pinnacle of Newar craftsmanship.",
+        "short_description": "Medieval royal palace with artistic masterpieces",
+        "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=300&fit=crop",
+        "latitude": 27.6710,
+        "longitude": 85.4298,
+        "category": "Heritage",
+        "district": "Bhaktapur",
+        "rating": 4.8,
+        "reviews_count": 720,
+        "entry_fee": "NPR 1500 (Foreigners), NPR 500 (SAARC), NPR 50 (Locals)",
+        "opening_hours": "8:00 AM - 7:00 PM",
+        "best_time": "Morning or late afternoon",
+        "things_to_do": [
+            "Visit 55-Window Palace",
+            "Explore Vatsala Temple",
+            "Watch pottery making",
+            "Try famous Bhaktapur yogurt",
+            "Photography of ancient architecture",
+            "Visit local museums"
+        ],
+        "events": [
+            {
+                "name": "Bisket Jatra",
+                "date": "April",
+                "description": "New Year festival with chariot processions"
+            },
+            {
+                "name": "Gai Jatra",
+                "date": "August",
+                "description": "Festival celebrating life and death"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Anna Schmidt",
+                "rating": 5,
+                "comment": "Best preserved medieval city in Nepal. The craftsmanship is extraordinary!",
+                "date": "2024-01-20"
+            },
+            {
+                "user": "Gopal Shrestha",
+                "rating": 4,
+                "comment": "Living heritage with friendly locals. Don't miss the famous yogurt!",
+                "date": "2024-01-18"
+            }
+        ],
+        "guides": [
+            {
+                "name": "Mohan Chitrakar",
+                "rating": 4.9,
+                "tours_completed": 140,
+                "speciality": "Traditional arts and crafts",
+                "price_per_hour": 1700,
+                "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Try Local Delicacies",
+                "description": "Sample Bhaktapur's famous juju dhau (king curd) and local sweets"
+            },
+            {
+                "title": "Artisan Workshops",
+                "description": "Visit pottery square to see traditional crafts being made"
+            }
+        ],
+        "awareness": [
+            "Entry fee is higher compared to other heritage sites",
+            "Some areas may be under restoration",
+            "Respect local artisans and their work",
+            "Stone pathways can be uneven"
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Chitwan National Park",
+        "description": "Nepal's first national park and UNESCO World Heritage Site, famous for wildlife safaris and rhino conservation. Spread across 932 square kilometers, the park is home to endangered one-horned rhinoceros, Bengal tigers, and hundreds of bird species. It offers diverse activities from jungle safaris to cultural experiences.",
+        "short_description": "Wildlife sanctuary with rhinos and tigers",
+        "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=500&h=300&fit=crop",
+        "latitude": 27.5291,
+        "longitude": 84.3542,
+        "category": "Nature",
+        "district": "Chitwan",
+        "rating": 4.7,
+        "reviews_count": 650,
+        "entry_fee": "NPR 2000 (Foreigners), NPR 1500 (SAARC), NPR 100 (Locals)",
+        "opening_hours": "6:00 AM - 6:00 PM",
+        "best_time": "October to March",
+        "things_to_do": [
+            "Jeep safari in the jungle",
+            "Elephant bathing experience",
+            "Bird watching tours",
+            "Canoe rides on Rapti River",
+            "Visit elephant breeding center",
+            "Tharu cultural programs"
+        ],
+        "events": [
+            {
+                "name": "Wildlife Week",
+                "date": "March",
+                "description": "Conservation awareness programs and activities"
+            },
+            {
+                "name": "Tharu Cultural Festival",
+                "date": "January",
+                "description": "Indigenous Tharu community celebrations"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Michael Brown",
+                "rating": 5,
+                "comment": "Saw rhinos up close! Amazing wildlife experience and great guides.",
+                "date": "2024-01-22"
+            },
+            {
+                "user": "Sunita Tharu",
+                "rating": 4,
+                "comment": "Beautiful nature and rich Tharu culture. Elephant safari was unforgettable.",
+                "date": "2024-01-19"
+            }
+        ],
+        "guides": [
+            {
+                "name": "Rajesh Tharu",
+                "rating": 4.8,
+                "tours_completed": 250,
+                "speciality": "Wildlife tracking and Tharu culture",
+                "price_per_hour": 2000,
+                "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Best Safari Times",
+                "description": "Early morning and late afternoon safaris offer best wildlife viewing opportunities"
+            },
+            {
+                "title": "Stay Overnight",
+                "description": "Book jungle lodges for complete wildlife experience and cultural programs"
+            }
+        ],
+        "awareness": [
+            "Follow park rules strictly for safety",
+            "Maintain safe distance from wild animals",
+            "Use insect repellent during monsoon",
+            "Book safaris in advance during peak season",
+            "Respect Tharu cultural traditions"
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Sarangkot Hill Station",
+        "description": "Popular hill station near Pokhara offering spectacular sunrise views over the Himalayas. This viewpoint provides panoramic vistas of Dhaulagiri, Annapurna, and Machapuchare peaks. It's also famous for paragliding activities and offers stunning sunset views over Phewa Lake.",
+        "short_description": "Hill station with Himalayan sunrise views",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=300&fit=crop",
+        "latitude": 28.2436,
+        "longitude": 83.9613,
+        "category": "Nature",
+        "district": "Pokhara",
+        "rating": 4.6,
+        "reviews_count": 480,
+        "entry_fee": "Free",
+        "opening_hours": "24 hours (best at sunrise/sunset)",
+        "best_time": "October to March",
+        "things_to_do": [
+            "Watch Himalayan sunrise",
+            "Paragliding adventures",
+            "Photography sessions",
+            "Short hiking trails",
+            "Mountain biking",
+            "Sunset viewing"
+        ],
+        "events": [
+            {
+                "name": "Paragliding Festival",
+                "date": "November",
+                "description": "International paragliding competition and demonstrations"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Tom Williams",
+                "rating": 5,
+                "comment": "Best sunrise view I've ever seen! The Himalayas are breathtaking from here.",
+                "date": "2024-01-25"
+            },
+            {
+                "user": "Maya Gurung",
+                "rating": 4,
+                "comment": "Perfect spot for paragliding. Professional instructors and safe equipment.",
+                "date": "2024-01-21"
+            }
+        ],
+        "guides": [
+            {
+                "name": "Karma Sherpa",
+                "rating": 4.7,
+                "tours_completed": 95,
+                "speciality": "Mountain trekking and paragliding",
+                "price_per_hour": 1800,
+                "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Early Start",
+                "description": "Leave early morning (5 AM) to reach in time for sunrise"
+            },
+            {
+                "title": "Weather Check",
+                "description": "Check weather conditions before visiting for clear mountain views"
+            }
+        ],
+        "awareness": [
+            "Road can be steep and winding",
+            "Weather changes quickly in mountains",
+            "Carry warm clothes for early morning visits",
+            "Book paragliding in advance",
+            "Check visibility before making the trip"
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Phewa Lake",
+        "description": "Serene freshwater lake in Pokhara valley surrounded by mountains and forests. The second-largest lake in Nepal offers boating, fishing, and stunning reflections of the Annapurna range. The famous Tal Barahi Temple sits on an island in the middle of the lake.",
+        "short_description": "Beautiful lake with mountain reflections",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=300&fit=crop",
+        "latitude": 28.2096,
+        "longitude": 83.9856,
+        "category": "Nature",
+        "district": "Pokhara",
+        "rating": 4.5,
+        "reviews_count": 890,
+        "entry_fee": "Free (Boat rental extra)",
+        "opening_hours": "24 hours (Boat service: 6 AM - 6 PM)",
+        "best_time": "October to April",
+        "things_to_do": [
+            "Boating to Tal Barahi Temple",
+            "Lakeside walks",
+            "Mountain photography",
+            "Fishing (with permit)",
+            "Sunset viewing",
+            "Cafe hopping along lakeside"
+        ],
+        "events": [
+            {
+                "name": "Pokhara Festival",
+                "date": "December/January",
+                "description": "Cultural festival with boat races and performances"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Elena Rodriguez",
+                "rating": 5,
+                "comment": "Perfect for relaxation. The mountain reflections in the lake are stunning!",
+                "date": "2024-01-28"
+            },
+            {
+                "user": "Dipesh Rai",
+                "rating": 4,
+                "comment": "Great for boating and evening walks. Lots of good restaurants nearby.",
+                "date": "2024-01-24"
+            }
+        ],
+        "guides": [
+            {
+                "name": "Bishnu Gurung",
+                "rating": 4.6,
+                "tours_completed": 110,
+                "speciality": "Lake activities and local culture",
+                "price_per_hour": 1000,
+                "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Boat Timing",
+                "description": "Best boat rides are early morning or late afternoon for calm waters"
+            },
+            {
+                "title": "Lakeside Dining",
+                "description": "Try lakeside restaurants for fresh fish and mountain views"
+            }
+        ],
+        "awareness": [
+            "Life jackets are mandatory for boating",
+            "Weather can change quickly affecting boat services",
+            "Swimming is not recommended due to depth",
+            "Bargain for boat rental prices",
+            "Be careful near water edges especially during monsoon"
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Nagarkot Hill Station",
+        "description": "Famous hill station offering spectacular sunrise and sunset views of the Himalayas including Mount Everest. Located at 2,175 meters above sea level, Nagarkot provides a perfect escape from city life with fresh mountain air and panoramic mountain vistas stretching from Dhaulagiri in the west to Kanchenjunga in the east.",
+        "short_description": "Hill station with Everest views and sunrise",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=300&fit=crop",
+        "latitude": 27.7172,
+        "longitude": 85.5206,
+        "category": "Nature",
+        "district": "Bhaktapur",
+        "rating": 4.4,
+        "reviews_count": 380,
+        "entry_fee": "Free",
+        "opening_hours": "24 hours",
+        "best_time": "October to March",
+        "things_to_do": [
+            "Watch Himalayan sunrise",
+            "Everest viewing on clear days",
+            "Nature walks and hiking",
+            "Photography workshops",
+            "Mountain biking trails",
+            "Star gazing at night"
+        ],
+        "events": [
+            {
+                "name": "Sunrise Festival",
+                "date": "January 1st",
+                "description": "New Year sunrise celebration with cultural programs"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Robert Taylor",
+                "rating": 5,
+                "comment": "Clear view of Everest on a sunny day! Sunrise was absolutely magical.",
+                "date": "2024-01-30"
+            },
+            {
+                "user": "Kamala Sherpa",
+                "rating": 4,
+                "comment": "Great place for overnight stay. Fresh mountain air and peaceful environment.",
+                "date": "2024-01-26"
+            }
+        ],
+        "guides": [
+            {
+                "name": "Dawa Sherpa",
+                "rating": 4.5,
+                "tours_completed": 85,
+                "speciality": "Mountain identification and photography",
+                "price_per_hour": 1300,
+                "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Overnight Stay",
+                "description": "Stay overnight to catch both sunset and sunrise views"
+            },
+            {
+                "title": "Clear Weather",
+                "description": "Check weather forecast for clear mountain views before visiting"
+            }
+        ],
+        "awareness": [
+            "Temperature drops significantly at night",
+            "Road condition can be poor during monsoon",
+            "Carry warm clothing even in summer",
+            "Mountain views depend on weather clarity",
+            "Book accommodation in advance during peak season"
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Garden of Dreams",
+        "description": "Enchanting neo-classical garden in the heart of Kathmandu, inspired by Edwardian style gardens. This restored historical garden features pavilions, fountains, and beautifully manicured landscapes. Originally built in the 1920s, it serves as a peaceful oasis away from the bustling city streets.",
+        "short_description": "Neo-classical garden oasis in Kathmandu",
+        "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=300&fit=crop",
+        "latitude": 27.7159,
+        "longitude": 85.3147,
+        "category": "Cultural",
+        "district": "Kathmandu",
+        "rating": 4.3,
+        "reviews_count": 420,
+        "entry_fee": "NPR 400 (Foreigners), NPR 200 (SAARC), NPR 25 (Locals)",
+        "opening_hours": "9:00 AM - 6:00 PM",
+        "best_time": "Any time of year",
+        "things_to_do": [
+            "Stroll through manicured gardens",
+            "Photography sessions",
+            "Relax in pavilions",
+            "Visit the amphitheater",
+            "Enjoy peaceful reading",
+            "Cafe dining experience"
+        ],
+        "events": [
+            {
+                "name": "Garden Concert Series",
+                "date": "Monthly",
+                "description": "Classical music performances in the amphitheater"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Sophie Martin",
+                "rating": 4,
+                "comment": "Beautiful escape from city chaos. Perfect for peaceful afternoon.",
+                "date": "2024-02-01"
+            },
+            {
+                "user": "Arjun Karki",
+                "rating": 5,
+                "comment": "Well-maintained garden with great cafe. Ideal for dates and family outings.",
+                "date": "2024-01-29"
+            }
+        ],
+        "guides": [
+            {
+                "name": "Rita Pradhan",
+                "rating": 4.4,
+                "tours_completed": 60,
+                "speciality": "Garden history and horticulture",
+                "price_per_hour": 800,
+                "photo": "https://images.unsplash.com/photo-1494790108755-2616b612b098?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Peaceful Hours",
+                "description": "Visit during weekday mornings for a more peaceful experience"
+            },
+            {
+                "title": "Photography",
+                "description": "Great spot for portrait and nature photography"
+            }
+        ],
+        "awareness": [
+            "Entry fee required for all visitors",
+            "No outside food and drinks allowed",
+            "Maintain garden cleanliness",
+            "Respect quiet zones for reading",
+            "Limited parking available"
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Dakshinkali Temple",
+        "description": "Sacred Hindu temple dedicated to Goddess Kali, located in a scenic valley. This powerful temple is famous for animal sacrifices, especially during Saturday and Tuesday. The temple sits at the confluence of two holy rivers and attracts thousands of devotees seeking blessings from the fierce goddess.",
+        "short_description": "Sacred temple dedicated to Goddess Kali",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=500&h=300&fit=crop",
+        "latitude": 27.6147,
+        "longitude": 85.2966,
+        "category": "Religious",
+        "district": "Kathmandu",
+        "rating": 4.2,
+        "reviews_count": 290,
+        "entry_fee": "Free",
+        "opening_hours": "5:00 AM - 7:00 PM",
+        "best_time": "Tuesday and Saturday (main worship days)",
+        "things_to_do": [
+            "Participate in worship rituals",
+            "Explore scenic valley",
+            "Visit during special ceremonies",
+            "Photography of temple architecture",
+            "Picnic by the riverside",
+            "Nature walks in surrounding hills"
+        ],
+        "events": [
+            {
+                "name": "Dashain Festival",
+                "date": "September/October",
+                "description": "Major festival with large animal sacrifices"
+            },
+            {
+                "name": "Navaratri",
+                "date": "March/April",
+                "description": "Nine-day celebration honoring Divine Mother"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Deepak Tamang",
+                "rating": 4,
+                "comment": "Powerful spiritual experience. The natural setting is beautiful.",
+                "date": "2024-02-03"
+            },
+            {
+                "user": "Jennifer Lee",
+                "rating": 4,
+                "comment": "Interesting cultural experience though animal sacrifice might not be for everyone.",
+                "date": "2024-01-31"
+            }
+        ],
+        "guides": [
+            {
+                "name": "Shyam Acharya",
+                "rating": 4.3,
+                "tours_completed": 75,
+                "speciality": "Hindu rituals and valley history",
+                "price_per_hour": 1000,
+                "photo": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Cultural Sensitivity",
+                "description": "Be respectful during religious ceremonies and animal sacrifices"
+            },
+            {
+                "title": "Combined Trip",
+                "description": "Combine with visits to nearby Pharping monastery"
+            }
+        ],
+        "awareness": [
+            "Animal sacrifice ceremonies can be disturbing for some visitors",
+            "Dress modestly and remove shoes in temple areas",
+            "Very crowded on Tuesdays and Saturdays",
+            "Road can be narrow and winding",
+            "Respect religious practices and local customs"
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Langtang National Park",
+        "description": "First Himalayan national park established for conservation of unique flora and fauna. Located north of Kathmandu, this park offers diverse landscapes from subtropical forests to alpine meadows. It's home to red pandas, Himalayan black bears, and over 300 bird species, making it a paradise for nature lovers.",
+        "short_description": "Himalayan national park with diverse wildlife",
+        "image": "https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=500&h=300&fit=crop",
+        "latitude": 28.2333,
+        "longitude": 85.5500,
+        "category": "Adventure",
+        "district": "Rasuwa",
+        "rating": 4.6,
+        "reviews_count": 320,
+        "entry_fee": "NPR 3000 (Foreigners), NPR 1500 (SAARC), NPR 100 (Locals)",
+        "opening_hours": "6:00 AM - 6:00 PM",
+        "best_time": "March to May, September to November",
+        "things_to_do": [
+            "Langtang Valley trekking",
+            "Wildlife spotting tours",
+            "Bird watching expeditions",
+            "Photography workshops",
+            "Cultural village visits",
+            "Mountaineering base camps"
+        ],
+        "events": [
+            {
+                "name": "Rhododendron Festival",
+                "date": "March/April",
+                "description": "Celebration of blooming rhododendrons in the park"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Alex Thompson",
+                "rating": 5,
+                "comment": "Incredible trekking experience! Saw red pandas and beautiful rhododendron forests.",
+                "date": "2024-02-05"
+            },
+            {
+                "user": "Nima Tamang",
+                "rating": 4,
+                "comment": "Great for adventure lovers. The village culture is authentic and welcoming.",
+                "date": "2024-02-02"
+            }
+        ],
+        "guides": [
+            {
+                "name": "Pemba Tamang",
+                "rating": 4.8,
+                "tours_completed": 130,
+                "speciality": "High altitude trekking and wildlife",
+                "price_per_hour": 2200,
+                "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Fitness Preparation",
+                "description": "Prepare physically for high altitude trekking with proper training"
+            },
+            {
+                "title": "Permits Required",
+                "description": "Obtain all necessary permits before entering the park"
+            }
+        ],
+        "awareness": [
+            "High altitude can cause altitude sickness",
+            "Weather changes rapidly in mountains",
+            "Carry appropriate trekking gear",
+            "Inform someone about your trekking plans",
+            "Respect wildlife and maintain safe distances"
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Changu Narayan Temple",
+        "description": "Ancient Hindu temple dedicated to Lord Vishnu, considered the oldest temple in Nepal. This UNESCO World Heritage Site dates back to the 4th century and features exceptional stone and wood carvings. The temple showcases the earliest sample of Nepalese art and architecture.",
+        "short_description": "Oldest Hindu temple with ancient carvings",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=500&h=300&fit=crop",
+        "latitude": 27.7161,
+        "longitude": 85.4347,
+        "category": "Heritage",
+        "district": "Bhaktapur",
+        "rating": 4.4,
+        "reviews_count": 180,
+        "entry_fee": "NPR 300 (Foreigners), NPR 50 (SAARC), Free (Locals)",
+        "opening_hours": "6:00 AM - 7:00 PM",
+        "best_time": "Morning or late afternoon",
+        "things_to_do": [
+            "Study ancient stone inscriptions",
+            "Admire wood and stone carvings",
+            "Visit small museum",
+            "Village walks around temple",
+            "Sunset views over valley",
+            "Traditional architecture photography"
+        ],
+        "events": [
+            {
+                "name": "Changu Narayan Jatra",
+                "date": "January",
+                "description": "Annual temple festival with traditional dances"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Dr. Patricia Kumar",
+                "rating": 5,
+                "comment": "Fascinating historical site. The stone carvings are incredibly detailed and well-preserved.",
+                "date": "2024-02-07"
+            },
+            {
+                "user": "Bikash Shrestha",
+                "rating": 4,
+                "comment": "Peaceful temple with great historical significance. Nice village setting.",
+                "date": "2024-02-04"
+            }
+        ],
+        "guides": [
+            {
+                "name": "Purna Maharjan",
+                "rating": 4.6,
+                "tours_completed": 90,
+                "speciality": "Ancient history and archaeological findings",
+                "price_per_hour": 1400,
+                "photo": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Historical Context",
+                "description": "Learn about the temple's history before visiting for better appreciation"
+            },
+            {
+                "title": "Village Experience",
+                "description": "Explore the traditional Newari village surrounding the temple"
+            }
+        ],
+        "awareness": [
+            "Temple is on a hilltop requiring some walking",
+            "Limited facilities available in the village",
+            "Respect ancient artifacts and don't touch carvings",
+            "Entry fee changes periodically",
+            "Road to temple can be narrow"
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Everest Base Camp Trek Start Point",
+        "description": "Gateway to the world's most famous trekking route leading to Mount Everest Base Camp. Located in the Khumbu region, this starting point in Lukla offers breathtaking mountain scenery and Sherpa culture. The trek is considered one of the most challenging yet rewarding adventures in the world.",
+        "short_description": "Starting point for iconic Everest Base Camp trek",
+        "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=300&fit=crop",
+        "latitude": 27.6872,
+        "longitude": 86.7320,
+        "category": "Adventure",
+        "district": "Solukhumbu",
+        "rating": 4.9,
+        "reviews_count": 1200,
+        "entry_fee": "NPR 5000 (Permits), Flight costs extra",
+        "opening_hours": "Depends on flight schedule",
+        "best_time": "March to May, September to November",
+        "things_to_do": [
+            "Start Everest Base Camp trek",
+            "Experience Sherpa culture",
+            "Visit local monasteries",
+            "Mountain photography",
+            "Acclimatization hikes",
+            "Local market exploration"
+        ],
+        "events": [
+            {
+                "name": "Everest Day",
+                "date": "May 29",
+                "description": "Celebration of first successful Everest summit"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Mountain Explorer",
+                "rating": 5,
+                "comment": "Life-changing experience! The flight to Lukla itself is an adventure.",
+                "date": "2024-02-10"
+            },
+            {
+                "user": "Ang Dorje Sherpa",
+                "rating": 5,
+                "comment": "Home to the world's greatest trekking adventure. Proud of my heritage here.",
+                "date": "2024-02-08"
+            }
+        ],
+        "guides": [
+            {
+                "name": "Pasang Sherpa",
+                "rating": 4.9,
+                "tours_completed": 45,
+                "speciality": "High altitude trekking and mountaineering",
+                "price_per_hour": 3500,
+                "photo": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face"
+            }
+        ],
+        "recommendations": [
+            {
+                "title": "Physical Preparation",
+                "description": "Train extensively for months before attempting this challenging trek"
+            },
+            {
+                "title": "Altitude Acclimatization",
+                "description": "Plan for proper acclimatization days to avoid altitude sickness"
+            }
+        ],
+        "awareness": [
+            "Requires extensive physical preparation",
+            "Weather conditions can be extremely dangerous",
+            "Altitude sickness is a serious risk",
+            "Expensive undertaking with multiple costs",
+            "Flight delays to Lukla are common",
+            "Emergency evacuation insurance strongly recommended"
         ]
     }
 ]
