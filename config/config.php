@@ -3,8 +3,8 @@
 session_start();
 
 // Root URL Configuration - Change this for different environments
-define('ROOT_URL', 'http://localhost/ms/acit-hackathon/v105'); // For local development
-// define('ROOT_URL', 'https://development.shahiupendra.com.np/ms/acit-hackathon/v105'); // For production
+// define('ROOT_URL', 'http://localhost/ms/acit-hackathon/v105'); // For local development
+define('ROOT_URL', 'https://development.shahiupendra.com.np/ms/acit-hackathon/v105'); // For production
 
 // Basic configuration
 define('SITE_NAME', 'Hackathon System');

@@ -1,0 +1,276 @@
+[
+    {
+        "id": 1,
+        "name": "Pashupatinath Temple",
+        "description": "Sacred Hindu temple dedicated to Lord Shiva, located on the banks of Bagmati River",
+        "short_description": "Sacred Hindu temple on Bagmati River",
+        "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=500&h=300&fit=crop",
+        "latitude": 27.7106,
+        "longitude": 85.3481,
+        "category": "Religious",
+        "district": "Kathmandu",
+        "rating": 4.8,
+        "reviews_count": 1250,
+        "entry_fee": "NPR 1000 (Foreigners)",
+        "opening_hours": "4:00 AM - 12:00 PM, 5:00 PM - 9:00 PM",
+        "best_time": "Early morning or evening",
+        "things_to_do": [
+            "Witness evening aarti ceremony",
+            "Explore ancient architecture",
+            "Visit Arya Ghat cremation site",
+            "Photography of temple complex"
+        ],
+        "events": [
+            {
+                "name": "Maha Shivaratri Festival",
+                "date": "February/March",
+                "description": "Grand celebration with thousands of devotees"
+            },
+            {
+                "name": "Teej Festival",
+                "date": "August/September", 
+                "description": "Women's festival with special prayers"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Sarah Johnson",
+                "rating": 5,
+                "comment": "Absolutely mesmerizing spiritual experience. The evening aarti is unforgettable!",
+                "date": "2024-01-15"
+            },
+            {
+                "user": "Raj Sharma",
+                "rating": 4,
+                "comment": "Beautiful temple with rich history. Can get crowded during festivals.",
+                "date": "2024-01-10"
+            }
+        ],
+        "awareness": [
+            "Dress modestly and remove shoes before entering",
+            "Photography may be restricted in certain areas",
+            "Respect local customs and traditions",
+            "Be mindful during cremation ceremonies"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Patan Durbar Square",
+        "description": "UNESCO World Heritage Site showcasing medieval Newar architecture and ancient palaces",
+        "short_description": "Medieval palace complex with stunning architecture",
+        "image": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?w=500&h=300&fit=crop",
+        "latitude": 27.6722,
+        "longitude": 85.3256,
+        "category": "Heritage",
+        "district": "Lalitpur",
+        "rating": 4.7,
+        "reviews_count": 890,
+        "entry_fee": "NPR 1000 (Foreigners), NPR 50 (SAARC), Free (Locals)",
+        "opening_hours": "9:00 AM - 6:00 PM",
+        "best_time": "Morning or late afternoon",
+        "things_to_do": [
+            "Explore Krishna Mandir temple",
+            "Visit Patan Museum",
+            "Admire traditional woodwork",
+            "Shop for handicrafts",
+            "Try local Newari cuisine"
+        ],
+        "events": [
+            {
+                "name": "Rato Machindranath Jatra",
+                "date": "April/May",
+                "description": "Chariot festival lasting several months"
+            },
+            {
+                "name": "Krishna Janmashtami",
+                "date": "August/September",
+                "description": "Celebration at Krishna Mandir"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Marco Rossi",
+                "rating": 5,
+                "comment": "Incredible architecture and rich cultural heritage. The museum is excellent!",
+                "date": "2024-01-12"
+            },
+            {
+                "user": "Priya Thapa",
+                "rating": 4,
+                "comment": "Beautiful square with amazing craftsmanship. Great for photography.",
+                "date": "2024-01-08"
+            }
+        ],
+        "awareness": [
+            "Earthquake damage restoration ongoing in some areas",
+            "Hire local guides for detailed historical information",
+            "Support local artisans by buying authentic crafts",
+            "Maintain silence in temple areas"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Kathmandu Durbar Square",
+        "description": "Historic royal palace complex at the heart of Kathmandu with temples and courtyards",
+        "short_description": "Historic royal palace in heart of Kathmandu",
+        "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=300&fit=crop",
+        "latitude": 27.7040,
+        "longitude": 85.3070,
+        "category": "Heritage",
+        "district": "Kathmandu",
+        "rating": 4.6,
+        "reviews_count": 1100,
+        "entry_fee": "NPR 1000 (Foreigners), NPR 50 (SAARC), Free (Locals)",
+        "opening_hours": "6:00 AM - 7:00 PM",
+        "best_time": "Early morning or evening",
+        "things_to_do": [
+            "Visit Hanuman Dhoka Palace",
+            "See the Living Goddess Kumari",
+            "Explore Taleju Temple",
+            "Walk through ancient courtyards",
+            "Experience local street life"
+        ],
+        "events": [
+            {
+                "name": "Indra Jatra Festival",
+                "date": "September",
+                "description": "Eight-day festival honoring Lord Indra"
+            },
+            {
+                "name": "Gai Jatra",
+                "date": "August/September",
+                "description": "Festival of cows with cultural programs"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "David Chen",
+                "rating": 4,
+                "comment": "Rich history and culture. The Kumari darshan was a unique experience.",
+                "date": "2024-01-14"
+            },
+            {
+                "user": "Anita Gurung",
+                "rating": 5,
+                "comment": "Heart of Kathmandu with so much to see. Perfect for cultural immersion.",
+                "date": "2024-01-09"
+            }
+        ],
+        "awareness": [
+            "Some structures still under post-earthquake reconstruction",
+            "Kumari darshan has specific timings",
+            "Beware of pickpockets in crowded areas",
+            "Respect photography restrictions"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Swayambhunath Stupa",
+        "description": "Ancient Buddhist stupa atop a hill, also known as Monkey Temple, offering panoramic city views",
+        "short_description": "Ancient Buddhist stupa with panoramic views",
+        "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=300&fit=crop",
+        "latitude": 27.7149,
+        "longitude": 85.2906,
+        "category": "Religious",
+        "district": "Kathmandu",
+        "rating": 4.5,
+        "reviews_count": 950,
+        "entry_fee": "NPR 200 (Foreigners), Free (Locals)",
+        "opening_hours": "5:00 AM - 9:00 PM",
+        "best_time": "Sunrise or sunset",
+        "things_to_do": [
+            "Climb the 365 steps to the top",
+            "Watch sunrise/sunset views",
+            "Observe monkeys in their habitat",
+            "Spin prayer wheels",
+            "Visit surrounding monasteries"
+        ],
+        "events": [
+            {
+                "name": "Buddha Jayanti",
+                "date": "April/May",
+                "description": "Celebration of Buddha's birthday"
+            },
+            {
+                "name": "Losar (Tibetan New Year)",
+                "date": "February/March",
+                "description": "Tibetan Buddhist celebration"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "Lisa Anderson",
+                "rating": 5,
+                "comment": "Breathtaking views of Kathmandu valley. The climb is worth it!",
+                "date": "2024-01-13"
+            },
+            {
+                "user": "Tenzin Norbu",
+                "rating": 4,
+                "comment": "Sacred place with peaceful atmosphere. Watch out for the monkeys!",
+                "date": "2024-01-11"
+            }
+        ],
+        "awareness": [
+            "Monkeys can be aggressive - don't carry food openly",
+            "Wear comfortable shoes for the climb",
+            "Respect Buddhist customs and traditions",
+            "Early morning visits are less crowded"
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Boudhanath Stupa",
+        "description": "One of the largest Buddhist stupas in the world and center of Tibetan Buddhism in Nepal",
+        "short_description": "Massive Buddhist stupa and Tibetan cultural center",
+        "image": "https://images.unsplash.com/photo-1605640840605-14ac1855827b?w=500&h=300&fit=crop",
+        "latitude": 27.7215,
+        "longitude": 85.3620,
+        "category": "Religious",
+        "district": "Kathmandu",
+        "rating": 4.9,
+        "reviews_count": 1350,
+        "entry_fee": "NPR 400 (Foreigners), Free (Locals)",
+        "opening_hours": "5:00 AM - 9:00 PM",
+        "best_time": "Early morning or evening",
+        "things_to_do": [
+            "Walk clockwise around the stupa",
+            "Visit surrounding monasteries",
+            "Shop for Tibetan handicrafts",
+            "Try Tibetan cuisine",
+            "Attend evening prayers"
+        ],
+        "events": [
+            {
+                "name": "Losar Festival",
+                "date": "February/March",
+                "description": "Tibetan New Year celebration"
+            },
+            {
+                "name": "Buddha Purnima",
+                "date": "April/May",
+                "description": "Full moon celebration of Buddha's enlightenment"
+            }
+        ],
+        "reviews": [
+            {
+                "user": "James Wilson",
+                "rating": 5,
+                "comment": "Incredibly peaceful and spiritual. The evening atmosphere is magical.",
+                "date": "2024-01-16"
+            },
+            {
+                "user": "Pemba Sherpa",
+                "rating": 5,
+                "comment": "Heart of Tibetan culture in Kathmandu. Must visit for spiritual seekers.",
+                "date": "2024-01-12"
+            }
+        ],
+        "awareness": [
+            "Walk clockwise around the stupa as per tradition",
+            "Remove hats and shoes when entering monasteries",
+            "Photography may be restricted inside some areas",
+            "Support local Tibetan refugee community"
+        ]
+    }
+]
